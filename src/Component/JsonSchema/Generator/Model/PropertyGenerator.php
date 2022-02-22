@@ -38,7 +38,8 @@ trait PropertyGenerator
             $propertyStmt,
         ], [
             'comments' => [$this->createPropertyDoc($property, $namespace, $strict)],
-        ]);
+        ],
+        $property->getType()->getName());
     }
 
     protected function createPropertyDoc(Property $property, $namespace, bool $strict): Doc
