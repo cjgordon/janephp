@@ -9,13 +9,13 @@ class Test
      *
      * @var Childtype
      */
-    protected $child;
+    protected Childtype $child;
     /**
      * 
      *
      * @var Parenttype
      */
-    protected $parent;
+    protected Parenttype $parent;
     /**
      * 
      *

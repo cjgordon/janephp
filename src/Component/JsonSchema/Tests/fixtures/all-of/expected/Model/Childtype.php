@@ -9,13 +9,13 @@ class Childtype
      *
      * @var string
      */
-    protected $childProperty;
+    protected string $childProperty;
     /**
      * 
      *
      * @var string
      */
-    protected $inheritedProperty;
+    protected string $inheritedProperty;
     /**
      * 
      *

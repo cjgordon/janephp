@@ -9,13 +9,13 @@ class Test
      *
      * @var string
      */
-    protected $msgref;
+    protected string $msgref;
     /**
      * Message reference on reply/forward.
      *
      * @var string
      */
-    protected $msgRef2;
+    protected string $msgRef2;
     /**
      * Indicates the ID of the referenced original mail.
      *

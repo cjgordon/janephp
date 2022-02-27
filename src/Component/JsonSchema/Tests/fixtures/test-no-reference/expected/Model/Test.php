@@ -9,13 +9,13 @@ class Test
      *
      * @var string
      */
-    protected $string;
+    protected string $string;
     /**
      * 
      *
      * @var TestSubObject
      */
-    protected $subObject;
+    protected TestSubObject $subObject;
     /**
      * 
      *

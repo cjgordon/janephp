@@ -9,7 +9,7 @@ class Document
      *
      * @var Attributes[]|null
      */
-    protected $attributes;
+    protected array $attributes;
     /**
      * 
      *

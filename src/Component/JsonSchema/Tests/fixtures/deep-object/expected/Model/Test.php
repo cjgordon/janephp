@@ -9,7 +9,7 @@ class Test
      *
      * @var TestFooItem[]
      */
-    protected $foo;
+    protected array $foo;
     /**
      * 
      *

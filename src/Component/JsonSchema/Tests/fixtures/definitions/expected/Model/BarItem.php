@@ -9,7 +9,7 @@ class BarItem
      *
      * @var string
      */
-    protected $bar;
+    protected string $bar;
     /**
      * 
      *

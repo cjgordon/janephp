@@ -9,7 +9,7 @@ class _List
      *
      * @var string
      */
-    protected $foo;
+    protected string $foo;
     /**
      * 
      *

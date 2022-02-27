@@ -9,7 +9,7 @@ class Test
      *
      * @var \Jane\Component\JsonSchema\Tests\Expected\Schema2\Model\Foo
      */
-    protected $foo;
+    protected \Jane\Component\JsonSchema\Tests\Expected\Schema2\Model\Foo $foo;
     /**
      * 
      *

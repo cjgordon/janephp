@@ -9,7 +9,7 @@ class Parenttype
      *
      * @var string
      */
-    protected $inheritedProperty;
+    protected string $inheritedProperty;
     /**
      * 
      *

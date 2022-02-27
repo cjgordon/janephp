@@ -9,19 +9,19 @@ class Foo
      *
      * @var string
      */
-    protected $foo;
+    protected string $foo;
     /**
      * 
      *
      * @var string
      */
-    protected $bar;
+    protected string $bar;
     /**
      * 
      *
      * @var string
      */
-    protected $fooBar;
+    protected string $fooBar;
     /**
      * 
      *

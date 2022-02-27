@@ -9,7 +9,7 @@ class PatternProperties extends \ArrayObject
      *
      * @var string
      */
-    protected $foo;
+    protected string $foo;
     /**
      * 
      *

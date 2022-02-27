@@ -9,13 +9,13 @@ class Otherchildtype
      *
      * @var string
      */
-    protected $inheritedProperty;
+    protected string $inheritedProperty;
     /**
      * 
      *
      * @var string
      */
-    protected $childProperty;
+    protected string $childProperty;
     /**
      * 
      *

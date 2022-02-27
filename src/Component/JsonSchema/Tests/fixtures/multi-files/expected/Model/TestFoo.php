@@ -9,7 +9,7 @@ class TestFoo
      *
      * @var string
      */
-    protected $foo;
+    protected string $foo;
     /**
      * 
      *

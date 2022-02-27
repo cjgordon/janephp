@@ -9,17 +9,17 @@ class Bar
      *
      * @var string
      */
-    protected $foo;
+    protected string $foo;
     /**
      * 
      *
      * @var string
      */
-    protected $bar;
+    protected string $bar;
     /**
      * 
      *
-     * @return string
+     * @return string string
      */
     public function getFoo() : string
     {

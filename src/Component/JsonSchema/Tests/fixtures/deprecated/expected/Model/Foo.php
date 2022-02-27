@@ -13,7 +13,7 @@ class Foo
      *
      * @var string
      */
-    protected $email;
+    protected string $email;
     /**
      * 
      *
@@ -21,7 +21,7 @@ class Foo
      *
      * @var string
      */
-    protected $foo;
+    protected string $foo;
     /**
      * 
      *

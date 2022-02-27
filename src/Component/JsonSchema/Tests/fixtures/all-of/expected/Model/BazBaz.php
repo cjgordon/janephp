@@ -9,7 +9,7 @@ class BazBaz
      *
      * @var string
      */
-    protected $baz;
+    protected string $baz;
     /**
      * 
      *

@@ -9,7 +9,7 @@ class Attributes
      *
      * @var string
      */
-    protected $foo;
+    protected string $foo;
     /**
      * 
      *
